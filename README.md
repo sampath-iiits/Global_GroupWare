@@ -15,7 +15,7 @@ This is a React application that integrates with the Reqres API to perform basic
 
 1. **Clone the Repository**: Clone this repository to your local machine using:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/sampath-iiits/Global_GroupWare
    
 2. **Navigate to the Project Directory**:
    ```bash
